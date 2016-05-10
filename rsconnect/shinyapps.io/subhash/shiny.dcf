@@ -1,0 +1,9 @@
+name: shiny
+account: subhash
+server: shinyapps.io
+appId: 85509
+bundleId: 381114
+url: https://subhash.shinyapps.io/shiny/
+when: 1456473495.67888
+asMultiple: FALSE
+asStatic: FALSE
