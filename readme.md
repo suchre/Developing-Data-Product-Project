@@ -21,6 +21,6 @@ The shiny app will calculate and display the average fuel efficiency (in terms o
 
 Source code is available on the [GitHub](https://github.com/suchre/Developing-Data-Product-Project).
 
-Presentation available on [rPubs] (http://rpubs.com/subhash/myshinyapp).
+Presentation available on [rPubs] (http://rpubs.com/suchre/myshinyapp).
 
-Detail project documention on [Regression Models Project - Motor Trend] (http://rpubs.com/subhash/motortrend).
+Detail project documention on [Regression Models Project - Motor Trend] (http://rpubs.com/suchre/motortrend).
